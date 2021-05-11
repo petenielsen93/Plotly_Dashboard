@@ -1,1 +1,4 @@
 # Plotly_Dashboard
+In this module, we created a dashboard using JS and HTML to filter through demographic information regarding each volunteer of the study. In this challenge, we created visualizations of each using Plotly, creating a bar, bubble, and gauge chart to visualize different factors. We then customized the page using HTML and Bootstrap. 
+
+When the dashboard is first opened, the information for ID 940 is displayed and the three charts should be displaying his/her information. The information panel and charts will dynamically update every time a new ID number is selected from the box. 
